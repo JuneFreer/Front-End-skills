@@ -1,2 +1,2 @@
-# Hello-World
-This is my first Repository(Maybe a test one)
+# Front End skills
+This is the repositry to learn front end development skills
